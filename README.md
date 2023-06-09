@@ -1,4 +1,4 @@
-# market_project
+# Market Project
 This app is to manage supermarket salary of any place
 
 
